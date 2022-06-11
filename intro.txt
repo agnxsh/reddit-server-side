@@ -1,0 +1,8 @@
+reddit server side implementation
+using 
+redis
+typescript
+node.js
+graphQl apis
+docker
+much more :)
